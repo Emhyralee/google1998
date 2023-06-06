@@ -1,0 +1,46 @@
+.blokcenter {
+    display: block;    
+    margin: 0 auto;
+    /* Google resmini ortalamak için kullandığım elementler */
+    
+}
+
+.center {
+    height: 80px;
+    width: 1277.6px;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+#search {
+    width: 269px;
+    height: 22px;
+    margin: 0 auto;
+    display: block;
+}
+
+.specialbox {
+    width: 471.217px;
+    height: 78px;
+    background-color: #7EE5DA;
+    padding: auto;
+    margin-top: 2px;
+    float: left;
+}
+
+.helpbox {
+    width: 278.7px;
+    height: 78px;
+    background-color: #70CCC2;
+    float: left;
+    
+}
+
+.mailbox {
+    width: 521.683px;
+    height: 78px;
+    background-color: #62B3AA;
+    float: left;
+}
